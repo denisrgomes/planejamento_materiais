@@ -1,0 +1,13 @@
+p.teaser {
+	text-indent: 30px; 
+	}
+
+#parent {
+   display: table;
+   width: 100%;
+}
+#form_login {
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+}
